@@ -103,7 +103,7 @@
 }
 
 
-/*.box1{
+.box1{
   position: absolute;
   top: 1450px;
   left: 280px;
@@ -117,9 +117,9 @@
   border-radius: 16px 16px 16px 16px;
   -webkit-border-radius: 16px 16px 16px 16px;
   -moz-border-radius: 16px 16px 16px 16px;   
-}*/
+}
 
-/*.boton1{
+.boton1{
   position: absolute;
   top: 80px;
   left: 1465px;
@@ -134,7 +134,7 @@
   -moz-border-radius: 16px 16px 16px 16px;
 }
 
-/*.cuadro2{
+.cuadro2{
   position: absolute;
   top: 410px;
   left: -277px;
@@ -144,14 +144,14 @@
   width: 2813px;
 }
 
-/*.triangulo3{
+.triangulo3{
   position: absolute;
   top: 420px;
   left: 2562px;
   border-right: 250px solid #f4f6fb;
   border-top: 230px solid transparent;
      
-}*/
+}
 
 .sec3{
   
